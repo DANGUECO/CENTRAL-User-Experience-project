@@ -8,4 +8,4 @@ Initial Prototype(functioning UI w/ databasing and embedded links
 
 NOTE: MUST OPEN IN "PENCIL" TO SEE WIREFRAME
 
-NOTE: MUST OPEN IN "JUSTINMIND" TO SEE PROTOTYPE
+NOTE: prototype is not shown
