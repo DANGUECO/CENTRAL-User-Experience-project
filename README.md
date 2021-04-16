@@ -1,6 +1,6 @@
-# COUNCIL CENTRAL PROJECT
-This is the wireframe and prototypes for a web interface for operators to use during emergencies.This is for a user experience design project, that I've been working on for my paper. This is not the final product.
-
+# Wireframe only
+This is the wireframe  for a web interface for operators to use during emergencies.This is for a user experience design project, that I've been working on for my paper.
+It has to be user friendly and make the customer have ease of use. 
 
 Wireframe
 
